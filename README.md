@@ -78,3 +78,10 @@
 * Payara、Docker、WebSocketあたりに興味がある
 * しょぼくても良いから毎日 `git commit` するクセをつけようとしている最中
 
+## 2016年(社会人10年目)
+
+* [Doma勉強会](http://kanjava.connpass.com/event/14586/)を開催した。
+  Domaオンリーなイベントは実は初めて
+* [Elasticsearchハンズオンに行ってきた](http://backpaper0.github.io/2016/03/24/elastichandson.html)。
+  ぜひ仕事でも使いたい
+* Java Day Tokyo 2016で登壇予定
