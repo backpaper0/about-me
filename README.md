@@ -77,6 +77,7 @@
 
 * Payara、Docker、WebSocketあたりに興味がある
 * しょぼくても良いから毎日 `git commit` するクセをつけようとしている最中
+* [JJUG CCC 2015 Fall](http://www.java-users.jp/?page_id=2064#AB-1)にてJAX-RSをテーマに登壇
 
 ## 2016年(社会人10年目)
 
