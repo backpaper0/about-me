@@ -85,4 +85,4 @@
   Domaオンリーなイベントは実は初めて
 * [Elasticsearchハンズオンに行ってきた](http://backpaper0.github.io/2016/03/24/elastichandson.html)。
   ぜひ仕事でも使いたい
-* Java Day Tokyo 2016で登壇予定
+* [Java Day Tokyo 2016で登壇した](http://www.oracle.co.jp/events/javaday/2016/)
