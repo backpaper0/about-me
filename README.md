@@ -90,3 +90,5 @@
   ぜひ仕事でも使いたい
 * [Java Day Tokyo 2016で登壇した](http://www.oracle.co.jp/events/javaday/2016/)。
   [togetterでまとめて貰った](http://togetter.com/li/979241)
+* [東京でDoma勉強会を開催した](http://backpaper0.github.io/2016/07/12/doma_tokyo.html)。
+  中村さんに初めてお会いした。
