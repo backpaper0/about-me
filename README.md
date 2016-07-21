@@ -84,6 +84,7 @@
 
 ## 2016年(社会人10年目)
 
+* いろふさんに誘って貰ってWEB+DB PRESSでふたりで連載を開始した
 * [Doma勉強会](http://kanjava.connpass.com/event/14586/)を開催した。
   Domaオンリーなイベントは実は初めて
 * [Elasticsearchハンズオンに行ってきた](http://backpaper0.github.io/2016/03/24/elastichandson.html)。
