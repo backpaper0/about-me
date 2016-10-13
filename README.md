@@ -75,6 +75,8 @@
 
 * [libGDXでゲームを作った](http://backpaper0.github.io/2014/12/24/syobotsum.html)
 * 少数チームで実験的にGitを導入
+* [しょぼちむと初めて会った](https://twitter.com/backpaper0/status/466217706094489600)
+* [よこなさんと初めて会った](https://twitter.com/backpaper0/status/533878935247806465)
 
 ## 2015年(社会人9年目)
 
