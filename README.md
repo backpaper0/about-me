@@ -93,3 +93,6 @@
   [togetterでまとめて貰った](http://togetter.com/li/979241)
 * [東京でDoma勉強会を開催した](http://backpaper0.github.io/2016/07/12/doma_tokyo.html)。
   中村さんに初めてお会いした。
+* [Scala関西Summit 2016で登壇した](http://backpaper0.github.io/2016/10/09/scala_ks.html)。
+  ひしだまさんに初めてお会いした。
+
