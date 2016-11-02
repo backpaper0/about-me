@@ -8,7 +8,7 @@
 
 ## イベント
 
-http://scalamatsuri.org/
+http://2016.scalamatsuri.org/
 
 ## 結果
 
