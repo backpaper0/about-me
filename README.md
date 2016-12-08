@@ -98,4 +98,5 @@
 * [Scala関西Summit 2016で登壇した](http://backpaper0.github.io/2016/10/09/scala_ks.html)。
   ひしだまさんに初めてお会いした。
 * [Spring Day 2016で登壇した](http://springday2016.springframework.jp/session.html#session2-5)
+* [JJUG CCC 2016 Fallで登壇した](https://github.com/jjug-ccc/call-for-paper-2016fall/issues/37)
 
