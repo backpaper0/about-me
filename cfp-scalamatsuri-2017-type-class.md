@@ -11,3 +11,4 @@ http://2017.scalamatsuri.org/
 
 ## 結果
 
+落選
