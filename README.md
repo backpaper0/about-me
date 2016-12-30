@@ -89,6 +89,7 @@
 * いろふさんに誘って貰ってWEB+DB PRESSでふたりで連載を開始した
 * [Doma勉強会](http://kanjava.connpass.com/event/14586/)を開催した。
   Domaオンリーなイベントは実は初めて
+* [セミコロンレスJavaで戻り値のあるメソッドを実装できた](https://twitter.com/backpaper0/status/705763807964991488)
 * [Elasticsearchハンズオンに行ってきた](http://backpaper0.github.io/2016/03/24/elastichandson.html)。
   ぜひ仕事でも使いたい
 * [Java Day Tokyo 2016で登壇した](http://www.oracle.co.jp/events/javaday/2016/)。
