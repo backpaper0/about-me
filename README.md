@@ -1,6 +1,6 @@
 # History
 
-[うらがみ](https://twitter.com/backpaper0)が未来のために過去を振り返る資料です。
+[うらがみ](https://github.com/backpaper0/)が未来のために過去を振り返る資料です。
 仕事でやってる事と趣味でやってる事をごちゃ混ぜに書いています。
 
 ## 2007年(社会人1年目)
@@ -48,10 +48,10 @@
   が[台風が来たので中止した](http://d.hatena.ne.jp/backpaper0/20110903/1315063286)。
   悲しみしか無かった。
 * [Scala勉強会を主催した](http://d.hatena.ne.jp/backpaper0/20111016/1318740542)
-* [並行処理プログラミングにはまってたっぽい](https://docs.google.com/presentation/d/1rKjgu1CqJt38bLVkJTV-b6BkqIB66vYqEriK5LIrE_o/present?slide=id.i0)。
+* 並行処理プログラミングにはまってたっぽい。
   初出は[やきに駆動 秋のJava祭典スペシャル in 大阪〜こりん星](https://atnd.org/events/20138)だけど、
   後の鹿駆動勉強会で資料をアップデートしたので日付は2012年になっている。
-* [11月22日に結婚した](https://twitter.com/backpaper0/status/138914748203937792)
+* 11月22日に結婚した
 
 ## 2012年(社会人6年目)
 
@@ -75,8 +75,8 @@
 
 * [libGDXでゲームを作った](http://backpaper0.github.io/2014/12/24/syobotsum.html)
 * 少数チームで実験的にGitを導入
-* [しょぼちむと初めて会った](https://twitter.com/backpaper0/status/466217706094489600)
-* [よこなさんと初めて会った](https://twitter.com/backpaper0/status/533878935247806465)
+* しょぼちむと初めて会った
+* よこなさんと初めて会った
 
 ## 2015年(社会人9年目)
 
@@ -89,7 +89,7 @@
 * いろふさんに誘って貰ってWEB+DB PRESSでふたりで連載を開始した
 * [Doma勉強会](http://kanjava.connpass.com/event/14586/)を開催した。
   Domaオンリーなイベントは実は初めて
-* [セミコロンレスJavaで戻り値のあるメソッドを実装できた](https://twitter.com/backpaper0/status/705763807964991488)
+* セミコロンレスJavaで戻り値のあるメソッドを実装できた
 * [Elasticsearchハンズオンに行ってきた](http://backpaper0.github.io/2016/03/24/elastichandson.html)。
   ぜひ仕事でも使いたい
 * [Java Day Tokyo 2016で登壇した](http://www.oracle.co.jp/events/javaday/2016/)。
