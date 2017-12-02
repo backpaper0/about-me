@@ -102,3 +102,13 @@
 * [JJUG CCC 2016 Fallで登壇した](https://github.com/jjug-ccc/call-for-paper-2016fall/issues/37)
 * 秋頃からSpringを学び始めた
 
+## 2017年(社会人11年目)
+
+* JJUG CCC 2017 Springで登壇した 「[Vue.js + Spring Bootで楽しくフルスタック開発やってみた](http://backpaper0.github.io/ghosts/spring-boot-doma-vue/#1)」
+* [KANJAVA PARTY 2017 !!!](https://kanjava.connpass.com/event/56152/)を開催した
+* [O/Rマッパー勉強会 in 大都会](https://okajug.doorkeeper.jp/events/59251)で登壇した
+* [JJUG ナイトセミナー 「Java O/Rマッパー特集」 ](https://jjug.doorkeeper.jp/events/63161)で登壇した
+* [関Java Selenium特集](https://kanjava.connpass.com/event/61819/)で登壇した「[Selenideを使ったテストで工夫していることとこれからやりたいこと](http://backpaper0.github.io/ghosts/selenide-kari/#1)」
+* [Spring Fest 2017](http://springfest2017.springframework.jp/)で登壇した「[SpringでOAuth 2.0・OpenID Connect 1.0を使う](https://backpaper0.github.io/spring-fest-2017/#1)」
+* TIS株式会社へ入社
+
