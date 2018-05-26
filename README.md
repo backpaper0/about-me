@@ -112,3 +112,6 @@
 * [Spring Fest 2017](http://springfest2017.springframework.jp/)で登壇した「[SpringでOAuth 2.0・OpenID Connect 1.0を使う](https://backpaper0.github.io/spring-fest-2017/#1)」
 * TIS株式会社へ入社
 
+## 2018年(社会人12年目)
+
+* JJUG CCC 2018 Springで登壇した 「[Concourse CI入門 ライブ環境構築＆ビルド](https://backpaper0.github.io/jjug-ccc-2018-spring-concourse/slide/index.html#1)」
