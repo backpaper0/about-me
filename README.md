@@ -116,3 +116,7 @@
 
 * JJUG CCC 2018 Springで登壇した 「[Concourse CI入門 ライブ環境構築＆ビルド](https://backpaper0.github.io/jjug-ccc-2018-spring-concourse/slide/index.html#1)」
 * [Reactive System Meetup in 大阪](https://connpass.com/event/98181/)で登壇した「[Spring WebFluxの話](https://backpaper0.github.io/ghosts/reactive/index.html#1)」
+
+## 2019年(社会人13年目)
+
+* [Reactive System Meetup in 大阪 #2](https://connpass.com/event/115160/)で登壇した「[R2DBCの話](http://backpaper0.github.io/ghosts/r2dbc/#1)」
