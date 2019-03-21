@@ -22,13 +22,13 @@
 ## 2010年(社会人4年目)
 
 * Excelによるタスク管理がつらくてRedmineを導入
-* [XP祭り関西に参加](http://d.hatena.ne.jp/backpaper0/20100208/1265640707)。
+* XP祭り関西に参加。
   初のIT系イベントへの参加。
-* [初めて関ジャバに参加](http://d.hatena.ne.jp/backpaper0/20100408/1270740567)
-* [Domaを実案件に採用](http://d.hatena.ne.jp/backpaper0/20100711/1278860026)
+* 初めて関ジャバに参加
+* Domaを実案件に採用
 * GlassFish v3でJava EE 6を学び始める
 * あとScalaとT2Frameworkにはまってたっぽい
-* [T2Frameworkソースコードリーディングを主催](http://d.hatena.ne.jp/backpaper0/20101130/1291127910)。
+* T2Frameworkソースコードリーディングを主催。
   初の勉強会主催。
 * [日本Androidの会 関西支部　情報交換会](https://atnd.org/events/10103)にいろふさん、たんごさんと参加。
   お昼ご飯は三人で中華街に行ったんだけど、いろふさんとまともに会話したのはこの時が初めて。
@@ -39,15 +39,15 @@
 
 ## 2011年(社会人5年目)
 
-* [JUnitソースコードリーディング](http://d.hatena.ne.jp/backpaper0/20110123/1295792237)。
+* JUnitソースコードリーディング。
   この頃からOSSのコードを読むのに抵抗が無くなった気がする。
-* [関ジャバでGlassFish v3.1について発表した](http://d.hatena.ne.jp/backpaper0/20110307/1299500055)
+* 関ジャバでGlassFish v3.1について発表した
 * [Effective Java読書会](https://atnd.org/events/14722)と[Scala本読書会](https://atnd.org/events/14177)に参加(どっちかというと開催側だったかも知れないけれど)。
   Scala本読書会でだいくしーさん、こざけさんと知り合った。
-* [関西GlassFish勉強会を企画する](http://d.hatena.ne.jp/backpaper0/20110726/1311691938)
-  が[台風が来たので中止した](http://d.hatena.ne.jp/backpaper0/20110903/1315063286)。
+* 関西GlassFish勉強会を企画する
+  が台風が来たので中止した。
   悲しみしか無かった。
-* [Scala勉強会を主催した](http://d.hatena.ne.jp/backpaper0/20111016/1318740542)
+* Scala勉強会を主催した
 * 並行処理プログラミングにはまってたっぽい。
   初出は[やきに駆動 秋のJava祭典スペシャル in 大阪〜こりん星](https://atnd.org/events/20138)だけど、
   後の鹿駆動勉強会で資料をアップデートしたので日付は2012年になっている。
@@ -56,7 +56,7 @@
 ## 2012年(社会人6年目)
 
 * 初Androidアプリ開発
-* [しょぼいHTTPサーバを書いてみた](http://d.hatena.ne.jp/backpaper0/20120927/1348758148)。
+* しょぼいHTTPサーバを書いてみた。
   その後もSHA-1書いたり、AES書いたり、少し低レイヤーな処理にはまってたっぽい。
   完全に趣味丸出しだなと思っていたこの経験は、後から仕事で役に立ったので何がどう転ぶか分からん。
 * この頃の自分を構成していた技術はJAX-RS、Doma、GlassFish v3
