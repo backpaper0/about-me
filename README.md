@@ -120,3 +120,5 @@
 ## 2019年(社会人13年目)
 
 * [Reactive System Meetup in 大阪 #2](https://connpass.com/event/115160/)で登壇した「[R2DBCの話](http://backpaper0.github.io/ghosts/r2dbc/#1)」
+* [OsakaNa DM 4 - Elmを教えてもらう](https://osakanadm.connpass.com/event/128028/)で[Elmの話をした](https://github.com/backpaper0/osakanadm4)(仕事でElm使っていないけれど)
+* [Mix Leap Study #43 - Scalaの表現力を知る！！](https://yahoo-osaka.connpass.com/event/130213/)で[Scalaの話をした](https://backpaper0.github.io/ghosts/type-level-addition/)(仕事でScala使っていないけれど)
