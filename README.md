@@ -124,3 +124,4 @@
 * [Mix Leap Study #43 - Scalaの表現力を知る！！](https://yahoo-osaka.connpass.com/event/130213/)で[Scalaの話をした](https://backpaper0.github.io/ghosts/type-level-addition/)(仕事でScala使っていないけれど)
 * [関ジャバ'19 8月度](https://kanjava.connpass.com/event/134135/)で[リフレクションの話をした](https://backpaper0.github.io/ghosts/reflect/)(仕事でめっちゃリフレクション使ったので)
 * [JJUG CCC 2019 Fall](https://ccc2019fall.java-users.jp/)で登壇した 「[DIコンテナ入門](https://backpaper0.github.io/ghosts/dicontainer/)」
+* [KanJava 10th Anniversary Party](https://kanjava.connpass.com/event/147145/)で登壇した「[DIコンテナ入門（裏面）](https://backpaper0.github.io/ghosts/bytecode-enhance/)」
