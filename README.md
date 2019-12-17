@@ -99,7 +99,7 @@
 - [Scala関西Summit 2016で登壇した](http://backpaper0.github.io/2016/10/09/scala_ks.html)。
   ひしだまさんに初めてお会いした。
 - [Spring Day 2016で登壇した](http://springday2016.springframework.jp/session.html#session2-5)
-- [JJUG CCC 2016 Fallで登壇した](https://github.com/jjug-ccc/call-for-paper-2016fall/issues/37)
+- [JJUG CCC 2016 Fall](https://github.com/jjug-ccc/call-for-paper-2016fall/issues/37)で登壇した「[Selenideを試行錯誤しながら実践するブラウザ自動テスト](https://backpaper0.github.io/ghosts/try-selenide/)」
 - 秋頃からSpringを学び始めた
 
 ## 2017年(社会人11年目)
