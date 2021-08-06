@@ -129,3 +129,7 @@
 ## 2020年度(社会人14年目)
 
 - コロナ禍による長期的な在宅勤務
+
+## 2021年度(社会人15年目)
+
+- [JSUG勉強会 2021年その2 Spring GraphQLをとことん語る夕べ](https://jsug.doorkeeper.jp/events/124798)で発表した。「[Spring GraphQL introduction](https://backpaper0.github.io/spring-graphql-introduction/)」
