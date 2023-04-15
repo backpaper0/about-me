@@ -17,8 +17,9 @@
 
 - StrutsがつらいのでSAStrutsを採用
 - もちろんオレオレJDBCラッパーからS2JDBCに変更
-- ちなみにソースコードは日付フォルダ管理()しており、やはりつらくてSubversionを導入
+- ちなみにソースコードは日付フォルダ管理しており、やはりつらくてSubversionを導入
 - Excelによるタスク管理がつらくてRedmineを導入
+- （今から思うと自分の力量もまだまだなのに一度に色々やりすぎ）
 - XP祭り関西に参加。
   初のIT系イベントへの参加。
 
@@ -133,3 +134,8 @@
 ## 2021年度(社会人15年目)
 
 - [JSUG勉強会 2021年その2 Spring GraphQLをとことん語る夕べ](https://jsug.doorkeeper.jp/events/124798)で発表した。「[Spring GraphQL introduction](https://backpaper0.github.io/spring-graphql-introduction/)」
+
+## 2022年度(社会人16年目)
+
+- [Spring Fest 2023](https://springfest2023.springframework.jp/)で発表した
+
