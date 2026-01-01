@@ -139,3 +139,8 @@
 
 - [Spring Fest 2023](https://springfest2023.springframework.jp/)で発表した
 
+## 2024年度(社会人18年目)
+
+- [関ジャバ'25 1月度](https://kanjava.connpass.com/event/342465/)で発表した。「[【朗報】Spring AIを使えば
+Javaエンジニアでも生成AIと遊べるぞ](https://backpaper0.github.io/spring-ai-introduction/)」
+
